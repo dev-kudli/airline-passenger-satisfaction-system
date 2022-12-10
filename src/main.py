@@ -70,5 +70,7 @@ def main():
             insertAirlineFromCsv(conn)
     closeMysqlConnection(conn)
 
+    
+
 if __name__ == "__main__":
     main()
