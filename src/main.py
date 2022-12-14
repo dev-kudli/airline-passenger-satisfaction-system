@@ -69,6 +69,7 @@ def main():
         case '4':
             insertAirlineFromCsv(conn)
     closeMysqlConnection(conn)
+
     
 
 if __name__ == "__main__":
