@@ -5,7 +5,6 @@
   <ol>
     <li>About The Project</li>
     <li>Scope of the Project</li>
-    <li>Scope of the Project</li>
     <li>Data Sources</li>
     <li>System Requirements</li>
     <li>Python Libraries</li>
