@@ -83,7 +83,7 @@ The scope of our  project includes the following
 <!-- PROCESS COVERED -->
 ## PROCESS COVERED
 * Data for passenger reviews extracted from Skytrax Website.
-* Python script written in Jupyter notebookto extract data using python library Beautiful Soup,
+* Python script written in Jupyter notebook to extract data using python library Beautiful Soup,
 Scrapy, Selenium.
 * Flight Details and information extracted from Kayak Website.
 * Further Datasets collected from GitHub, Kaggle and other sources.
